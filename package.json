@@ -1,0 +1,23 @@
+{
+  "name": "protocol-buffers-example",
+  "version": "1.0.0",
+  "description": "a example use of Protobufs for learning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpvajda/protocol-buffers-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpvajda/protocol-buffers-example/issues"
+  },
+  "homepage": "https://github.com/jpvajda/protocol-buffers-example#readme",
+  "dependencies": {
+    "google-protobuf": "^3.21.2"
+  }
+}
