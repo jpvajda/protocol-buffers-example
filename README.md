@@ -12,12 +12,12 @@ and this [repo here](https://github.com/hnasr/javascript_playground/blob/master/
 
 - `protoc-gen-js: program not found or is not executable`  see [Github issue](https://github.com/protocolbuffers/protobuf-javascript/issues/127#issuecomment-1204202844)
 
-## Benefits of ProtoBuff
+## Benefits of ProtoBuf
 - Schema driven
 - Binary & a very compact size
 - Language neutral
 
-## Cons
+## Cons of ProtoBuf
 - Have to have structured data (barrier to entry)
 - More involved processes for small applications.
 - Can be overkill for getting started quickly.
